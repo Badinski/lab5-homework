@@ -1,0 +1,4 @@
+class A
+{
+  //Some code
+}
