@@ -1,5 +1,5 @@
 package loose.oose.fis;
-//Comentariu 1
+//Comentariu 2
 import loose.oose.fis.documents.Document;
 import loose.oose.fis.documents.JSON;
 import loose.oose.fis.documents.XML;
